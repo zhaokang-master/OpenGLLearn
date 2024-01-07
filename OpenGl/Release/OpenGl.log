@@ -1,0 +1,8 @@
+﻿Application.obj : error LNK2001: 无法解析的外部符号 _glfwSwapBuffers
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwTerminate
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwPollEvents
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwInit
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwCreateWindow
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwMakeContextCurrent
+Application.obj : error LNK2001: 无法解析的外部符号 _glfwWindowShouldClose
+D:\OpenGl\l\OpenGl\Release\OpenGl.exe : fatal error LNK1120: 7 个无法解析的外部命令
